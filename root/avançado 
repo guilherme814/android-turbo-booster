@@ -1,1 +1,12 @@
-magisk-module/
+magisk-module/ 
+
+module.prop
+system/
+
+
+id=androidperformance
+name=Android Performance Suite
+version=1.0
+versionCode=1
+author=SeuNome
+description=Performance tweaks
