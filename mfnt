@@ -1,0 +1,3 @@
+<service
+    android:name=".overlay.OverlayService"
+    android:exported="false"/>
